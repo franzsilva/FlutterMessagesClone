@@ -6,9 +6,10 @@ This one is a bit more structured than the other app. But could use some DRY Eve
 
 Pull Requests are welcome!. 
 
-Issues that im trying to solve:
+Issues that im trying to Solve & Learn:
  - The list is rerendering every time I swipe a message. Which changes all the colors again. 
  - Get the Sound Notification picker working
+ - The keyboard picker in the New Conversation is not changing the keyboard type. (Really dont know how to get it working)
  
 Features Im Working on:
  - The conversation view. 
